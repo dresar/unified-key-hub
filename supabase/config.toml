@@ -1,0 +1,7 @@
+project_id = "okjopkerjxmqrahfzxoe"
+
+[functions.auth]
+verify_jwt = false
+
+[functions.gateway]
+verify_jwt = false
